@@ -1,0 +1,179 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! ./cjs/scheduler-tracing.development.js */
+
+/*! ./cjs/scheduler.development.js */
+
+/*! ./client-overlay */
+
+/*! ./decode */
+
+/*! ./encode */
+
+/*! ./named-references */
+
+/*! ./normalize-url */
+
+/*! ./numeric-unicode-map */
+
+/*! ./process-update */
+
+/*! ./surrogate-pairs */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ansi-html-community */
+
+/*! ansi-regex */
+
+/*! history */
+
+/*! html-entities */
+
+/*! querystring */
+
+/*! react */
+
+/*! react-router */
+
+/*! strip-ansi */
+
+/*!****************************************!*\
+  !*** ../node_modules/history/index.js ***!
+  \****************************************/
+
+/*!******************************************!*\
+  !*** ../node_modules/scheduler/index.js ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ../node_modules/ansi-regex/index.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ../node_modules/strip-ansi/index.js ***!
+  \*******************************************/
+
+/*!********************************************!*\
+  !*** ../node_modules/querystring/index.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ../node_modules/scheduler/tracing.js ***!
+  \********************************************/
+
+/*!*********************************************!*\
+  !*** ../node_modules/querystring/decode.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ../node_modules/querystring/encode.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ../node_modules/react-router/index.js ***!
+  \*********************************************/
+
+/*!**********************************************!*\
+  !*** ../node_modules/object-assign/index.js ***!
+  \**********************************************/
+
+/*!*************************************************!*\
+  !*** ../node_modules/react-router-dom/index.js ***!
+  \*************************************************/
+
+/*!**************************************************!*\
+  !*** ../node_modules/html-entities/lib/index.js ***!
+  \**************************************************/
+
+/*!****************************************************!*\
+  !*** ../node_modules/ansi-html-community/index.js ***!
+  \****************************************************/
+
+/*!************************************************************!*\
+  !*** ../node_modules/html-entities/lib/surrogate-pairs.js ***!
+  \************************************************************/
+
+/*!*************************************************************!*\
+  !*** ../node_modules/@babel/runtime/helpers/esm/extends.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ../node_modules/html-entities/lib/named-references.js ***!
+  \*************************************************************/
+
+/*!**************************************************************!*\
+  !*** ../node_modules/scheduler/cjs/scheduler.development.js ***!
+  \**************************************************************/
+
+/*!****************************************************************!*\
+  !*** ../node_modules/html-entities/lib/numeric-unicode-map.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ../node_modules/webpack-hot-middleware/client-overlay.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ../node_modules/webpack-hot-middleware/process-update.js ***!
+  \****************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ../node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
+  \**********************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ../node_modules/mini-css-extract-plugin/dist/hmr/normalize-url.js ***!
+  \*************************************************************************/
+
+/*!********************************************************************************!*\
+  !*** ../node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js ***!
+  \********************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ../node_modules/webpack-hot-middleware/client.js?path=/__what&timeout=2000&overlay=false ***!
+  \************************************************************************************************/
+
+/**
+ * React Router DOM v6.3.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.3.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/** @license React v0.20.2
+ * scheduler-tracing.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.20.2
+ * scheduler.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
