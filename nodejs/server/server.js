@@ -6,8 +6,6 @@ import { renderToString } from 'react-dom/server'
 import path from 'path'
 import { getManifest, renderFullPage } from './utils/react-expres'
 
-require('dotenv').config();
-
 if(process.env.NODE_ENV === 'development') {
     console.log('Compilando en modo desarrollo')
     try {

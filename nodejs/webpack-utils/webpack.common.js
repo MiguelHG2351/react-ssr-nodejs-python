@@ -17,6 +17,9 @@ module.exports = {
     chunkFilename: "[name].bundle.js",
     assetModuleFilename: "assets/[name][ext]",
   },
+  resolve: {
+    extensions: [".js", ".jsx"],
+  },
   optimization: {
     minimize: true,
     minimizer: [
@@ -58,10 +61,10 @@ module.exports = {
   },
   module: {
     rules: [
-      {
-        loader: "babel-loader",
-        exclude: /node_modules/,
-      },
+      // {
+      //   loader: "babel-loader",
+      //   exclude: /node_modules/,
+      // },
       {
         test: /\.s?css$/,
         use: [

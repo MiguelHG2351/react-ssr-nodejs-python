@@ -1,0 +1,35 @@
+/*! ../../node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */
+
+/*! ../node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */
+
+/*! ../node_modules/@pmmmwh/react-refresh-webpack-plugin/overlay/index.js */
+
+/*! ../node_modules/react-refresh/runtime.js */
+
+/*! ./App */
+
+/*! ./Section */
+
+/*! ./style.scss */
+
+/*! react */
+
+/*! react-dom */
+
+/*! react-router-dom */
+
+/*!**************************!*\
+  !*** ./frontend/App.jsx ***!
+  \**************************/
+
+/*!****************************!*\
+  !*** ./frontend/index.jsx ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./frontend/style.scss ***!
+  \*****************************/
+
+/*!******************************!*\
+  !*** ./frontend/Section.jsx ***!
+  \******************************/
